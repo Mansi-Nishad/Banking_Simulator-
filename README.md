@@ -7,8 +7,10 @@
 
 A desktop-based banking application built using Python that simulates core banking operations with secure authentication and real-time features.
 
+---
 
 ## 📌 Overview
+
 A desktop-based Banking Simulator that replicates real-world banking operations with secure authentication and role-based access control. The application ensures smooth financial transactions along with enhanced security features like Captcha and OTP verification.
 
 ---
@@ -20,49 +22,80 @@ A desktop-based Banking Simulator that replicates real-world banking operations 
 - Captcha verification for secure access
 
 ### 💳 Banking Operations
-- Deposit funds  
-- Withdraw money  
-- Transfer funds between accounts  
+- Deposit funds
+- Withdraw money
+- Transfer funds between accounts
 
 ### 👨‍💼 Account Management
-- Admin can create, view, and close accounts  
-- Customers can update personal details  
+- Admin can create, view, and close accounts
+- Customers can update personal details
 
 ### 📧 Email Integration
-- OTP verification for password recovery  
-- Secure account closure via email  
+- OTP verification for password recovery
+- Secure account closure via email
 
 ---
 
 ## 🛠️ Tech Stack
 
 | Technology | Purpose |
-|----------|--------|
-| 🐍 Python | Core programming |
-| 🖥️ Tkinter | GUI development |
+|------------|---------|
+| 🐍 Python | Core Programming |
+| 🖥️ Tkinter | GUI Development |
 | 🗄️ SQLite | Database |
-| 📬 Gmail API | Email & OTP system |
+| 📬 Gmail API | Email & OTP System |
+
+---
+
 ## ⚙️ Installation
 
-`
+Install required dependency:
+
+```bash
 pip install gmail
-## ⚙️ Installation
+```
 
+---
+
+## ▶️ Usage
+
+Run the application:
+
+```bash
 python main.py
-
+```
 Banking-Simulator/
 │
 ├── main.py        # Main application logic
 ├── tables.py      # Database setup
 ├── generator.py   # Captcha & OTP generation
 ├── mailing.py     # Email functionality
+└── README.md      # Documentation
 
+---
 
-🔒 Security Features
-Captcha-based login protection
-OTP verification via email
-Role-based access control
-👨‍💻 Author
+## 🔒 Security Features
 
-Mansi Nishad
-🔗 https://github.com/Mansi-Nishad
+- Captcha-based login protection
+- OTP verification via email
+- Role-based access control
+
+---
+
+## 🚧 Future Enhancements
+
+- Transaction history tracking
+- Data visualization (charts/graphs)
+- Web-based version (Flask/Django)
+
+---
+
+## 👩‍💻 Author
+
+**Mansi Nishad**  
+🔗 [GitHub](https://github.com/Mansi-Nishad)
+
+> ⭐ If you found this project helpful, consider giving it a star!
+---
+
+## 📁 Project Structure
