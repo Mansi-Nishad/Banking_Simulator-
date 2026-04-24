@@ -101,16 +101,4 @@ Banking-Simulator/
 > ⭐ If you found this project helpful, consider giving it a star!
 
 
-## 📸 Screenshots
 
-### 🔐 Login Screen
-![Login](screenshots/login.png)
-
-### 👨‍💼 Admin Panel
-![Admin](screenshots/admin.png)
-
-### 👤 Customer Dashboard
-![Customer](screenshots/customer.png)
-
-### 📋 Show Details
-![Show](screenshots/show.png)
