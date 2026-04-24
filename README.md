@@ -75,10 +75,9 @@ python main.py
 - Data visualization (charts/graphs)
 - Web-based version (Flask/Django)
 
-
 ## 📁 Project Structure
-``
-Banking-Simulator/
+
+```Banking-Simulator/
 │
 ├── main.py        # Main application logic
 ├── tables.py      # Database setup
@@ -86,7 +85,7 @@ Banking-Simulator/
 ├── mailing.py     # Email functionality
 └── README.md      # Documentation
 ```
-```
+
 ## 👩‍💻 Author
 
 **Mansi Nishad**  
