@@ -75,9 +75,7 @@ python main.py
 - Data visualization (charts/graphs)
 - Web-based version (Flask/Django)
 
-
 ## 📁 Project Structure
-
 Banking-Simulator/
 │
 ├── main.py        # Main application logic
@@ -85,7 +83,6 @@ Banking-Simulator/
 ├── generator.py   # Captcha & OTP generation
 ├── mailing.py     # Email functionality
 └── README.md      # Documentation
-
 ```
 ```
 ## 👩‍💻 Author
