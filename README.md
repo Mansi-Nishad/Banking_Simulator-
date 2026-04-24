@@ -75,18 +75,8 @@ python main.py
 - Data visualization (charts/graphs)
 - Web-based version (Flask/Django)
 
----
-
-## 👩‍💻 Author
-
-**Mansi Nishad**  
-🔗 [GitHub](https://github.com/Mansi-Nishad)
-
-> ⭐ If you found this project helpful, consider giving it a star!
----
 
 ## 📁 Project Structure
-
 
 Banking-Simulator/
 │
@@ -97,3 +87,16 @@ Banking-Simulator/
 └── README.md      # Documentation
 
 ```
+```
+## 👩‍💻 Author
+
+**Mansi Nishad**  
+🔗 [GitHub](https://github.com/Mansi-Nishad)
+```
+```
+
+> ⭐ If you found this project helpful, consider giving it a star!
+
+
+
+
