@@ -75,7 +75,9 @@ python main.py
 - Data visualization (charts/graphs)
 - Web-based version (Flask/Django)
 
+
 ## 📁 Project Structure
+``
 Banking-Simulator/
 │
 ├── main.py        # Main application logic
@@ -93,7 +95,7 @@ Banking-Simulator/
 ```
 
 > ⭐ If you found this project helpful, consider giving it a star!
-
+```
 
 
 
