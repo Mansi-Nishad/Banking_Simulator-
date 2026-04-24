@@ -42,16 +42,14 @@ A desktop-based Banking Simulator that replicates real-world banking operations 
 | 🖥️ Tkinter | GUI development |
 | 🗄️ SQLite | Database |
 | 📬 Gmail API | Email & OTP system |
-
----
 ## ⚙️ Installation
 
-```bash
+`
 pip install gmail
+## ⚙️ Installation
 
 python main.py
 
-📁 Project Structure
 Banking-Simulator/
 │
 ├── main.py        # Main application logic
@@ -59,11 +57,11 @@ Banking-Simulator/
 ├── generator.py   # Captcha & OTP generation
 ├── mailing.py     # Email functionality
 
-🔒 Security Features
-. Captcha-based login protection
-. OTP verification via email
-. Role-based access control
 
+🔒 Security Features
+Captcha-based login protection
+OTP verification via email
+Role-based access control
 👨‍💻 Author
 
 Mansi Nishad
