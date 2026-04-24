@@ -13,7 +13,6 @@ A desktop-based banking application built using Python that simulates core banki
 
 A desktop-based Banking Simulator that replicates real-world banking operations with secure authentication and role-based access control. The application ensures smooth financial transactions along with enhanced security features like Captcha and OTP verification.
 
----
 
 ## ✨ Features
 
@@ -51,28 +50,16 @@ A desktop-based Banking Simulator that replicates real-world banking operations 
 
 Install required dependency:
 
-```bash
-pip install gmail
-```
 
----
+pip install gmail
 
 ## ▶️ Usage
 
 Run the application:
 
-```bash
-python main.py
-```
-Banking-Simulator/
-│
-├── main.py        # Main application logic
-├── tables.py      # Database setup
-├── generator.py   # Captcha & OTP generation
-├── mailing.py     # Email functionality
-└── README.md      # Documentation
 
----
+python main.py
+
 
 ## 🔒 Security Features
 
@@ -99,3 +86,14 @@ Banking-Simulator/
 ---
 
 ## 📁 Project Structure
+
+
+Banking-Simulator/
+│
+├── main.py        # Main application logic
+├── tables.py      # Database setup
+├── generator.py   # Captcha & OTP generation
+├── mailing.py     # Email functionality
+└── README.md      # Documentation
+
+```
