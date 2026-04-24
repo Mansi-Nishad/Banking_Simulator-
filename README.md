@@ -44,13 +44,11 @@ A desktop-based Banking Simulator that replicates real-world banking operations 
 | 📬 Gmail API | Email & OTP system |
 
 ---
-
 ## ⚙️ Installation
 
 ```bash
 pip install gmail
 
-▶️ Usage
 python main.py
 
 📁 Project Structure
